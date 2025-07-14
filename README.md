@@ -2,7 +2,11 @@
 
 A content-based movie recommendation system built with Python, Streamlit, and machine learning.
 
+
+![Project Screenshot](movie.png)
+
 ## Features
+
 
 - **Interactive Web Interface**: Built with Streamlit for easy movie selection
 - **Content-Based Filtering**: Uses movie features like genres, cast, crew, and overview
